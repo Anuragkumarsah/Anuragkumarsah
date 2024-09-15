@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React , MERN Stack**
 
-- 💬 Ask me about **Java , Python**
+- 💬 Ask me about **Java , Python, JavaScript, React**
 
 - 📫 How to reach me **anuragkumarsah2024@gmail.com**
 
-- ⚡ Fun fact **I love watching anime**
+- ⚡ Fun fact **I love watching anime and playing chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
